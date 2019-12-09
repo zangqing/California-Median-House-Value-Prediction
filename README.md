@@ -12,9 +12,9 @@ housing.csv - new dataset we merged to add more attributes
 
 3. Attribute Information
 
-3.1. Features
-MedInc - median income in block
-HouseAge - median house age in block
+-3.1. Features
+--MedInc - median income in block
+--HouseAge - median house age in block
 AveRooms - average number of rooms
 AveBedrms - average number of bedrooms
 Population - block population
