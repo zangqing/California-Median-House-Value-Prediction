@@ -5,10 +5,10 @@ Use various machine learning methods to predict California median house value
 This project is a classification problem. The dataset we are using is California Housing dataset, which was derived from the 1990 U.S. census, using one row per census block group. A block group is the smallest geographical unit for which the U.S. Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people).
 
 # File Descriptions
-train.csv - the training set
-test.csv - the test set
-sample_submission.csv - a sample submission file in the correct format
-housing.csv - new dataset we merged to add more attributes
+train.csv - the training set \
+test.csv - the test set \
+sample_submission.csv - a sample submission file in the correct format \
+housing.csv - new dataset we merged to add more attributes 
 
 # Attribute Information
 
