@@ -28,6 +28,6 @@ housing.csv - new dataset we merged to add more attributes
 ### CatMedHouseValue (Target Variable) - 1: very low, 2: low, 3: medium, 4: high, 5: very high
 
 # Findings
-•	Apply LDA, SVM, XGBoost, random forest and neural network by using Python, utilize cross-validation to judge different methods
+•	Apply LDA, SVM, XGBoost, random forest and neural network by using Python, utilize cross-validation to judge different methods\
 •	Find that random forest and XGBoost have better performance, then use grid search to do hyperparameter tuning for them
 
