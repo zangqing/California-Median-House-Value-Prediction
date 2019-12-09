@@ -11,6 +11,7 @@ sample_submission.csv - a sample submission file in the correct format
 housing.csv - new dataset we merged to add more attributes
 
 3. Attribute Information
+
 3.1. Features
 MedInc - median income in block
 HouseAge - median house age in block
