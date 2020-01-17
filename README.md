@@ -28,6 +28,6 @@ Ocean_proximity - proximity to Pacific ocean (new merged)
 CatMedHouseValue (Target Variable) - 1: very low, 2: low, 3: medium, 4: high, 5: very high
 
 # Findings
-Applied LDA, SVM, XGBoost, random forest and neural network by using Python, utilized cross-validation to judge different methods \
-Found that random forest and XGBoost had better performance, then used grid search to do hyperparameter tuning for them
+- Applied LDA, SVM, XGBoost, random forest and neural network by using Python, utilized cross-validation to judge different methods \
+- Found that random forest and XGBoost had better performance, then used grid search to do hyperparameter tuning for them
 
